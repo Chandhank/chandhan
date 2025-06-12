@@ -14,7 +14,7 @@ public class MurugarApp {
     @GetMapping("/")
     public String home() {
         return "<html><body style='text-align:center; background:#222; color:#FFD700; font-family:sans-serif;'>" +
-               "<h1>நல்லதே நடக்கும் Muruga</h1>" +
+               "<h1>நல்லதே நடக்கும் Murugan</h1>" +
                "<img src='/murugar.jpg' width='500'>" +
                "</body></html>";
     }
